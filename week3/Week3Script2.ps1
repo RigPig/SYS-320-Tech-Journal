@@ -1,5 +1,4 @@
-﻿
-. (Join-Path $PSScriptRoot "Week3Script1.ps1")
+﻿. (Join-Path $PSScriptRoot "Week3Script1.ps1")
 
 clear
 
